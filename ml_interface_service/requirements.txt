@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-numpy
-opencv-python
-mediapipe
-scipy
-tensorflow  # if you have trained models for more activities
